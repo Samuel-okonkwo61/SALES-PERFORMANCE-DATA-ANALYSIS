@@ -99,12 +99,13 @@ The dataset includes key FMCG sales metrics such as:
 
 
 
-🚀 Project Value
+                                                 🚀 Project Value
+
 This dashboard demonstrates how data can be transformed into actionable business insights, enabling organizations to improve sales performance, optimize distribution, and make informed strategic decisions.
 
 
 
-DASHBOARD VIEW
+
 <img width="749" height="430" alt="image" src="https://github.com/user-attachments/assets/08079c7c-c057-44fd-83d6-c05dfb14fae5" />
 <img width="766" height="434" alt="image" src="https://github.com/user-attachments/assets/2fedc113-5877-4d1e-a037-4e69b2b6e3eb" />
 <img width="644" height="411" alt="image" src="https://github.com/user-attachments/assets/1a9fa036-018c-4a35-93df-c4a6089fc266" />
