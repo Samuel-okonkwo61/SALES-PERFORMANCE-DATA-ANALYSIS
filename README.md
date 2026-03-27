@@ -2,9 +2,13 @@
 Power BI dashboard analyzing FMCG sales performance, market coverage, and team efficiency. Includes KPI tracking, regional and channel insights, and actionable recommendations to identify top performers, optimize distribution, and improve sales effectiveness.
 
 
+
+
 Overview
 This project presents a Power BI dashboard designed to analyze FMCG sales team performance, distribution coverage, and operational efficiency.
 It provides actionable insights to support decision-making and improve overall sales effectiveness.
+
+
 
 
 
@@ -14,6 +18,8 @@ It provides actionable insights to support decision-making and improve overall s
 •	Assess regional and channel performance 
 •	Identify distribution gaps and coverage opportunities 
 •	Highlight inventory risks using stock cover analysis 
+
+
 
 
 
@@ -27,6 +33,8 @@ The dataset includes key FMCG sales metrics such as:
 •	Active Outlets & New Outlets 
 •	Stock Cover (Days) 
 •	Gross Margin 
+
+
 
 
 
@@ -50,6 +58,8 @@ The dataset includes key FMCG sales metrics such as:
 
 
 
+
+
 🔍 Key Insights
 •	Lagos leads overall regional sales performance 
 •	Top performers exceed 100% target achievement 
@@ -59,10 +69,14 @@ The dataset includes key FMCG sales metrics such as:
 
 
 
+
+
 ⚠️ Key Risks
 •	Underperformance among some sales representatives 
 •	Overstock risk in certain regions 
 •	Inefficient sales effort (low conversion rates) 
+
+
 
 
 
@@ -74,10 +88,14 @@ The dataset includes key FMCG sales metrics such as:
 
 
 
+
+
 🛠 Tools & Technologies
 •	Power BI (Data Visualization & Dashboarding) 
 •	DAX (Measures and KPIs) 
 •	Excel (Data preparation) 
+
+
 
 
 
@@ -86,10 +104,12 @@ This dashboard demonstrates how data can be transformed into actionable business
 
 
 
-
+DASHBOARD VIEW
 <img width="749" height="430" alt="image" src="https://github.com/user-attachments/assets/08079c7c-c057-44fd-83d6-c05dfb14fae5" />
 <img width="766" height="434" alt="image" src="https://github.com/user-attachments/assets/2fedc113-5877-4d1e-a037-4e69b2b6e3eb" />
 <img width="644" height="411" alt="image" src="https://github.com/user-attachments/assets/1a9fa036-018c-4a35-93df-c4a6089fc266" />
+
+
 
 
 
