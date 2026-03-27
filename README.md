@@ -1,10 +1,12 @@
-# SALES-PERFORMANCE-DATA-ANALYSIS
+                                            # SALES-PERFORMANCE-DATA-ANALYSIS
+
 Power BI dashboard analyzing FMCG sales performance, market coverage, and team efficiency. Includes KPI tracking, regional and channel insights, and actionable recommendations to identify top performers, optimize distribution, and improve sales effectiveness.
 
 
 
 
-Overview
+                                               Overview
+
 This project presents a Power BI dashboard designed to analyze FMCG sales team performance, distribution coverage, and operational efficiency.
 It provides actionable insights to support decision-making and improve overall sales effectiveness.
 
@@ -12,7 +14,8 @@ It provides actionable insights to support decision-making and improve overall s
 
 
 
-🎯 Objectives
+                                              🎯 Objectives
+
 •	Evaluate sales performance vs targets 
 •	Analyze sales team efficiency (call rate, strike rate) 
 •	Assess regional and channel performance 
@@ -23,7 +26,8 @@ It provides actionable insights to support decision-making and improve overall s
 
 
 
-📂 Dataset
+                                              📂 Dataset
+
 The dataset includes key FMCG sales metrics such as:
 •	Salesperson Name 
 •	Channel (Distributor, Van Sales, Key Accounts, Field Sales) 
@@ -39,7 +43,8 @@ The dataset includes key FMCG sales metrics such as:
 
 
 
-📈 Dashboard Structure
+                                                📈 Dashboard Structure
+
 🔹 Page 1: Sales Performance Dashboard
 •	KPI Cards (Total Sales, Target Achievement, Efficiency Metrics) 
 •	Sales by Channel, Region, and Salesperson 
@@ -60,7 +65,8 @@ The dataset includes key FMCG sales metrics such as:
 
 
 
-🔍 Key Insights
+                                                 🔍 Key Insights
+
 •	Lagos leads overall regional sales performance 
 •	Top performers exceed 100% target achievement 
 •	High call rates do not always translate to higher sales 
@@ -71,7 +77,8 @@ The dataset includes key FMCG sales metrics such as:
 
 
 
-⚠️ Key Risks
+                                               ⚠️ Key Risks
+
 •	Underperformance among some sales representatives 
 •	Overstock risk in certain regions 
 •	Inefficient sales effort (low conversion rates) 
@@ -80,7 +87,8 @@ The dataset includes key FMCG sales metrics such as:
 
 
 
-💡 Recommendations
+                                            💡 Recommendations
+
 •	Train low-performing sales reps to improve conversion 
 •	Optimize outlet allocation for better productivity 
 •	Reduce stock levels in slow-moving regions 
@@ -90,7 +98,8 @@ The dataset includes key FMCG sales metrics such as:
 
 
 
-🛠 Tools & Technologies
+                                             🛠 Tools & Technologies
+
 •	Power BI (Data Visualization & Dashboarding) 
 •	DAX (Measures and KPIs) 
 •	Excel (Data preparation) 
